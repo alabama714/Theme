@@ -445,7 +445,7 @@
     "background": {
         "url": "https://raw.githubusercontent.com/damageinc714/Theme/refs/heads/main/girl.jpg"
         "alpha": 1,
-        "blur": 0    
+        "blur": 1    
     },
     "plus": {
         "version": 0,
